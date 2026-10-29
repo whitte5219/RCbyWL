@@ -1,0 +1,40 @@
+WHITTELABS FREE-USE LICENSE
+Version 1.0 - 29 October 2026
+Copyright (c) 2026 WhitteLabs. All rights reserved except as granted below.
+
+1. Free use and sharing
+You may use Remote Control by WhitteLabs free of charge. You may share
+complete, unmodified copies free of charge, keeping this license, the
+WhitteLabs name, branding, copyright notices and third-party notices intact.
+
+2. No rebranding or paid resale
+Without prior written permission from WhitteLabs, you may not:
+- Rebrand, rename or redistribute the original WhitteLabs app or website
+  materials as your own or as another product.
+- Remove or change their WhitteLabs branding or ownership notices.
+- Sell, rent, sublicense for payment, charge for access to, or include the
+  original WhitteLabs app or materials in a paid bundle or paid distribution.
+- Distribute modified versions of the original WhitteLabs app or materials.
+These restrictions include payment in money, cryptocurrency or other value.
+
+3. Ownership and exceptions
+Original WhitteLabs code, designs and branding remain the property of their
+respective rights holders. No trademark rights or other rights are granted
+except the permissions expressly stated above. Rights required by applicable
+law, and any rights granted by GitHub's terms for viewing/forking a public
+repository, are not restricted by this license.
+
+Third-party components are governed by their own licenses, described in the
+included notices. This license does not limit rights granted by those licenses
+and does not claim ownership of third-party code. See THIRD-PARTY-NOTICES.md.
+
+4. No warranty
+To the extent permitted by applicable law, the original WhitteLabs materials
+are provided AS IS, without warranties. Their authors are not liable for
+losses arising from their use to the extent such liability may be excluded.
+
+5. Permission and termination
+Other uses require written permission from WhitteLabs, through the repository
+owner whitte5219 at https://github.com/whitte5219/RCbyWL.
+If you breach this license, the permissions granted by it terminate. Mandatory
+rights and independent rights under third-party licenses are unaffected.
