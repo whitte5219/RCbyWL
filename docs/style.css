@@ -20,4 +20,3 @@
  footer{flex-direction:column;gap:16px}.license{text-align:left;width:100%}.license-content{padding:16px}.ambient{opacity:.1}.version{font-size:11px}
 }
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
-
